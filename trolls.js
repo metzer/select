@@ -510,4 +510,40 @@ var trolls = [
         blood: '#544677',
         categories: "highblood offplanet profile alternia"
     },
+     {
+        name: 'Kivoca Scitch',
+        img: 'https://64.media.tumblr.com/b40c0361f6cb3a5ed4a3c8a4f1bdae3c/52ffac1f78fb74ae-71/s640x960/4a423d09b63cf3ecbf92a36a4bd713678fb37626.png',
+        blood: '#287E62',
+        categories: "midblood fleet"
+    },
+    {
+        name: 'Norman Foster',
+        img: 'https://64.media.tumblr.com/7cf2758f7d93676d818c6ab9b2b12672/52ffac1f78fb74ae-80/s640x960/2c62233d64dd35ac2c8f78b7d2d33982d68f89d8.png',
+        blood: '#BF1D1D',
+        categories: "lowblood profile alternia"
+    },
+    {
+        name: 'Monday Galuna',
+        img: 'https://64.media.tumblr.com/90d5f5ca17b93e32f0b8ee5f1084aed4/52ffac1f78fb74ae-b2/s640x960/4f795fc8a7dfe2eec844615606451162f4445a89.png',
+        blood: '#212121',
+        categories: "lowblood mutant alternia"
+    },
+    {
+        name: 'Koiloc Miatsz',
+        img: 'https://64.media.tumblr.com/de2181b03a1119909162078ea9ae3969/52ffac1f78fb74ae-1b/s640x960/e229c4cef35c39bc956a13a905d0e5aecc81d2d5.png',
+        blood: '#D60A55',
+        categories: "seadweller alternia"
+    },
+    {
+        name: 'Cirice Movich',
+        img: 'https://64.media.tumblr.com/e7198b2d86bf0931222d2643bbdfd09b/52ffac1f78fb74ae-c5/s640x960/4dd93c323b94e14ca13dc2252c06952e61202625.png',
+        blood: '#E9145E',
+        categories: "seadweller cavity mutant alternia"
+    },
+    {
+        name: 'Pasito Camiou',
+        img: 'https://64.media.tumblr.com/d846467de7743d3cc854acb76fd7a2ea/52ffac1f78fb74ae-82/s640x960/f5ba140b61a1094d7f25bc1a28b41132947fbef7.png',
+        blood: '#461E87',
+        categories: "hihgblood alternia"
+    },
 ]
